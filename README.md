@@ -1,4 +1,4 @@
-# ✨ SoftUni Software Engineering and DevOps ✨🌸
+#  SoftUni Software Engineering and DevOps 
 
 >  *A SoftUni Software Engineering and DevOps course I compleated in 2025*
 
